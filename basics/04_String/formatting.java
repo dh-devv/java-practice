@@ -32,6 +32,6 @@ public class formatting {
         char ch = 'A';
 
         System.out.println(String.format("이 문자는 %c 입니다.", ch)); // 이 문자는 A 입니다.
-
+  
     }
 }
