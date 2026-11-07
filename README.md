@@ -4,25 +4,16 @@
 
 ## 학습 순서
 
-각 주제 폴더는 번호 순서로 살펴봅니다. 현재 `basics/`에는 다음 내용이 정리되어 있습니다.
+각 주제 폴더를 번호 순서로 살펴보세요. 자세한 설명과 예제는 각 폴더 안에서 확인할 수 있습니다.
 
-| 경로 | 학습 내용 |
-| --- | --- |
-| `basics/01_basic/` | 자바 소개와 프로그램의 기본 구조 |
-| `basics/02_hello/` | 첫 번째 자바 프로그램 |
-| `basics/03_variable/` | 변수와 자료형 |
-| `basics/04_String/` | 문자열과 문자열 포매팅 |
-| `basics/05_StringBuffer/` | `String`과 `StringBuffer`의 차이 |
+## 폴더 구조
 
-다음 큰 주제 폴더에서는 아래 순서로 학습할 예정입니다.
-
-| 폴더 | 학습 내용 |
-| --- | --- |
-| `array/` | 배열의 선언, 값 저장, 반복 처리 |
-| `control_flow/` | 조건문과 반복문을 이용한 실행 흐름 제어 |
-| `method/` | 메서드의 선언, 매개변수, 반환값과 호출 |
-| `oop/` | 클래스와 객체, 상속 등 객체 지향 프로그래밍 |
-| `mini_project/` | 배운 내용을 활용하는 작은 프로젝트 |
+- [basic](basic/) 
+- [array](array/)
+- [control_flow](control_flow/)
+- [method](method/)
+- [oop](oop/)
+- [mini_project](mini_project/)
 
 ## 문서와 예제 코드
 
