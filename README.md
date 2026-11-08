@@ -12,12 +12,13 @@
 
 ## 폴더 구조
 
-- [basic](basic/) 
+- [basics](basics/)
 - [array](array/)
 - [control_flow](control_flow/)
 - [method](method/)
 - [oop](oop/)
 - [mini_project](mini_project/)
+- [problem](problem/)
 
 ## 문서와 예제 코드
 
